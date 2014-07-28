@@ -23,7 +23,8 @@ hs_err_pid*
 .LSOverride
 
 # Icon must ends with two \r.
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -50,3 +51,13 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+/BrokerServer/build/
+/BrokerServer/dist/
+/Client/build/
+/Client/dist/
+/HotelServer1/build/
+/HotelServer1/dist/
+/HotelServer2/dist/
+/HotelServer2/build/
+/HotelServer3/dist/
+/HotelServer3/build/
